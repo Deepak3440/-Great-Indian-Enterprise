@@ -1,0 +1,38 @@
+i .icon{
+	font-size: 2em;
+}
+.container.main{ margin-top: 7.0em;}
+body{
+	background-color: gray;
+	margin-top: 40px;
+}
+nav{
+	margin: 0px;
+}
+.navbar{
+	background-color: black;
+
+}
+.nav-link{
+	color: white;
+}
+.nav-link:hover{
+	color: yellow;
+}
+#brand{
+	height: 40px;
+	width: 40px;
+	margin-right: 5px;
+}
+.navbar-brand{
+	font-size: 1.4rem;
+	color: white;
+}
+.navbar-brand:hover{
+	color: yellow;
+}
+.jumbotron{
+	margin-bottom: 0px;
+}
+#hoverAbleIndex:hover{background-image: linear-gradient(rgb(166, 166, 166),rgb(102, 102, 102),rgb(64, 64, 64));
+}
